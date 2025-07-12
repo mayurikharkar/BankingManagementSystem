@@ -3,6 +3,7 @@
 - The backend uses JDBC with transactions, and follows modular code structure (User.java, AccountManager.java, etc.) for easy maintenance and scalability. This project is ideal for computer science students looking to demonstrate core Java, database integration, and real-world CRUD applications in their portfolio
 
 **📦 Features**
+
 User Registration & Login
 Account Creation
 Debit and Credit Transactions
@@ -11,6 +12,7 @@ Balance Inquiry
 Robust Security Measures
 
 **🌐 Technologies Used**
+
 Java
 JDBC (Java Database Connectivity)
 MySQL (or your preferred database system)
